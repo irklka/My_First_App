@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="loginText">Login</string>
+    <string name="name">Name</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="profile_image">Profile image</string>
+    <string name="default_profile_name">Your Profile Name</string>
+</resources>
